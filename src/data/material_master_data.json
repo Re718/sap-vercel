@@ -1,0 +1,2002 @@
+[
+  {
+    "MaterialID": "M-10000",
+    "Description": "Deliver rich metrics",
+    "Plant": "P002",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 32.39
+  },
+  {
+    "MaterialID": "M-10001",
+    "Description": "Enhance viral e-tailers",
+    "Plant": "P003",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 186.82
+  },
+  {
+    "MaterialID": "M-10002",
+    "Description": "Generate back-end functionalities",
+    "Plant": "P001",
+    "ProfitCenter": "PC1000",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 32.54
+  },
+  {
+    "MaterialID": "M-10003",
+    "Description": "Exploit distributed eyeballs",
+    "Plant": "P001",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 130.69
+  },
+  {
+    "MaterialID": "M-10004",
+    "Description": "Empower back-end portals",
+    "Plant": "P003",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 113.47
+  },
+  {
+    "MaterialID": "M-10005",
+    "Description": "Syndicate ubiquitous info-mediaries",
+    "Plant": "P004",
+    "ProfitCenter": "PC1011",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 105.28
+  },
+  {
+    "MaterialID": "M-10006",
+    "Description": "Maximize turn-key initiatives",
+    "Plant": "P003",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 103.27
+  },
+  {
+    "MaterialID": "M-10007",
+    "Description": "Morph bricks-and-clicks communities",
+    "Plant": "P003",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 186.06
+  },
+  {
+    "MaterialID": "M-10008",
+    "Description": "Harness one-to-one systems",
+    "Plant": "P004",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 233.43
+  },
+  {
+    "MaterialID": "M-10009",
+    "Description": "Syndicate plug-and-play initiatives",
+    "Plant": "P002",
+    "ProfitCenter": "PC1007",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 273.87
+  },
+  {
+    "MaterialID": "M-10010",
+    "Description": "Transform 24/365 schemas",
+    "Plant": "P003",
+    "ProfitCenter": "PC1015",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 137.05
+  },
+  {
+    "MaterialID": "M-10011",
+    "Description": "Target end-to-end functionalities",
+    "Plant": "P001",
+    "ProfitCenter": "PC1009",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 142.39
+  },
+  {
+    "MaterialID": "M-10012",
+    "Description": "Whiteboard extensible niches",
+    "Plant": "P001",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 207.61
+  },
+  {
+    "MaterialID": "M-10013",
+    "Description": "Visualize dynamic e-markets",
+    "Plant": "P002",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 124.58
+  },
+  {
+    "MaterialID": "M-10014",
+    "Description": "Orchestrate collaborative infrastructures",
+    "Plant": "P002",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 190.71
+  },
+  {
+    "MaterialID": "M-10015",
+    "Description": "Grow ubiquitous web-readiness",
+    "Plant": "P001",
+    "ProfitCenter": "PC1009",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 148.2
+  },
+  {
+    "MaterialID": "M-10016",
+    "Description": "Envisioneer strategic e-markets",
+    "Plant": "P002",
+    "ProfitCenter": "PC1011",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 141.59
+  },
+  {
+    "MaterialID": "M-10017",
+    "Description": "Strategize open-source e-services",
+    "Plant": "P003",
+    "ProfitCenter": "PC1018",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 202.74
+  },
+  {
+    "MaterialID": "M-10018",
+    "Description": "Integrate collaborative e-commerce",
+    "Plant": "P004",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 242.58
+  },
+  {
+    "MaterialID": "M-10019",
+    "Description": "Deploy holistic action-items",
+    "Plant": "P001",
+    "ProfitCenter": "PC1015",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 46.82
+  },
+  {
+    "MaterialID": "M-10020",
+    "Description": "Synthesize collaborative web services",
+    "Plant": "P003",
+    "ProfitCenter": "PC1002",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 91.22
+  },
+  {
+    "MaterialID": "M-10021",
+    "Description": "Expedite efficient networks",
+    "Plant": "P003",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 179.55
+  },
+  {
+    "MaterialID": "M-10022",
+    "Description": "Disintermediate interactive metrics",
+    "Plant": "P002",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 132.75
+  },
+  {
+    "MaterialID": "M-10023",
+    "Description": "Facilitate sticky communities",
+    "Plant": "P003",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 124.9
+  },
+  {
+    "MaterialID": "M-10024",
+    "Description": "Unleash world-class vortals",
+    "Plant": "P004",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 145.1
+  },
+  {
+    "MaterialID": "M-10025",
+    "Description": "Scale vertical functionalities",
+    "Plant": "P001",
+    "ProfitCenter": "PC1008",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 145.55
+  },
+  {
+    "MaterialID": "M-10026",
+    "Description": "Target cross-media deliverables",
+    "Plant": "P004",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 73.74
+  },
+  {
+    "MaterialID": "M-10027",
+    "Description": "Strategize enterprise applications",
+    "Plant": "P001",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 191.77
+  },
+  {
+    "MaterialID": "M-10028",
+    "Description": "Enable synergistic action-items",
+    "Plant": "P004",
+    "ProfitCenter": "PC1018",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 52.66
+  },
+  {
+    "MaterialID": "M-10029",
+    "Description": "Matrix customized functionalities",
+    "Plant": "P004",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 73.25
+  },
+  {
+    "MaterialID": "M-10030",
+    "Description": "Whiteboard back-end roi",
+    "Plant": "P003",
+    "ProfitCenter": "PC1017",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 119.75
+  },
+  {
+    "MaterialID": "M-10031",
+    "Description": "Drive compelling partnerships",
+    "Plant": "P001",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 118.97
+  },
+  {
+    "MaterialID": "M-10032",
+    "Description": "Target vertical metrics",
+    "Plant": "P003",
+    "ProfitCenter": "PC1011",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 231.67
+  },
+  {
+    "MaterialID": "M-10033",
+    "Description": "Transform vertical e-services",
+    "Plant": "P004",
+    "ProfitCenter": "PC1009",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 154.14
+  },
+  {
+    "MaterialID": "M-10034",
+    "Description": "Unleash vertical mindshare",
+    "Plant": "P002",
+    "ProfitCenter": "PC1005",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 185.64
+  },
+  {
+    "MaterialID": "M-10035",
+    "Description": "Reinvent revolutionary web-readiness",
+    "Plant": "P002",
+    "ProfitCenter": "PC1010",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 90.46
+  },
+  {
+    "MaterialID": "M-10036",
+    "Description": "Mesh world-class deliverables",
+    "Plant": "P003",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 132.57
+  },
+  {
+    "MaterialID": "M-10037",
+    "Description": "Expedite web-enabled metrics",
+    "Plant": "P004",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 231.24
+  },
+  {
+    "MaterialID": "M-10038",
+    "Description": "Matrix turn-key architectures",
+    "Plant": "P001",
+    "ProfitCenter": "PC1000",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 100.49
+  },
+  {
+    "MaterialID": "M-10039",
+    "Description": "Evolve synergistic mindshare",
+    "Plant": "P004",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 284.45
+  },
+  {
+    "MaterialID": "M-10040",
+    "Description": "Visualize extensible networks",
+    "Plant": "P001",
+    "ProfitCenter": "PC1002",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 232.28
+  },
+  {
+    "MaterialID": "M-10041",
+    "Description": "Optimize seamless networks",
+    "Plant": "P001",
+    "ProfitCenter": "PC1008",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 143.62
+  },
+  {
+    "MaterialID": "M-10042",
+    "Description": "Productize value-added technologies",
+    "Plant": "P001",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 105.04
+  },
+  {
+    "MaterialID": "M-10043",
+    "Description": "Utilize cutting-edge synergies",
+    "Plant": "P004",
+    "ProfitCenter": "PC1009",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 93.26
+  },
+  {
+    "MaterialID": "M-10044",
+    "Description": "Re-intermediate granular mindshare",
+    "Plant": "P001",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 84.44
+  },
+  {
+    "MaterialID": "M-10045",
+    "Description": "Utilize revolutionary e-services",
+    "Plant": "P003",
+    "ProfitCenter": "PC1014",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 53.7
+  },
+  {
+    "MaterialID": "M-10046",
+    "Description": "Synergize synergistic deliverables",
+    "Plant": "P001",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 175.15
+  },
+  {
+    "MaterialID": "M-10047",
+    "Description": "Enhance strategic action-items",
+    "Plant": "P002",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 87.41
+  },
+  {
+    "MaterialID": "M-10048",
+    "Description": "Streamline scalable content",
+    "Plant": "P003",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 239.72
+  },
+  {
+    "MaterialID": "M-10049",
+    "Description": "Syndicate scalable applications",
+    "Plant": "P002",
+    "ProfitCenter": "PC1009",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 171.12
+  },
+  {
+    "MaterialID": "M-10050",
+    "Description": "Transition rich communities",
+    "Plant": "P002",
+    "ProfitCenter": "PC1008",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 233.18
+  },
+  {
+    "MaterialID": "M-10051",
+    "Description": "Envisioneer strategic technologies",
+    "Plant": "P002",
+    "ProfitCenter": "PC1015",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 218.39
+  },
+  {
+    "MaterialID": "M-10052",
+    "Description": "Envisioneer web-enabled markets",
+    "Plant": "P001",
+    "ProfitCenter": "PC1004",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 271.9
+  },
+  {
+    "MaterialID": "M-10053",
+    "Description": "Strategize next-generation e-services",
+    "Plant": "P004",
+    "ProfitCenter": "PC1008",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 180.33
+  },
+  {
+    "MaterialID": "M-10054",
+    "Description": "Unleash user-centric systems",
+    "Plant": "P003",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 25.81
+  },
+  {
+    "MaterialID": "M-10055",
+    "Description": "Visualize value-added interfaces",
+    "Plant": "P001",
+    "ProfitCenter": "PC1014",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 112.88
+  },
+  {
+    "MaterialID": "M-10056",
+    "Description": "Streamline leading-edge methodologies",
+    "Plant": "P004",
+    "ProfitCenter": "PC1018",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 77.66
+  },
+  {
+    "MaterialID": "M-10057",
+    "Description": "Enhance back-end portals",
+    "Plant": "P003",
+    "ProfitCenter": "PC1008",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 172.13
+  },
+  {
+    "MaterialID": "M-10058",
+    "Description": "Incentivize world-class infrastructures",
+    "Plant": "P003",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 231.47
+  },
+  {
+    "MaterialID": "M-10059",
+    "Description": "Architect one-to-one initiatives",
+    "Plant": "P003",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 64.11
+  },
+  {
+    "MaterialID": "M-10060",
+    "Description": "Scale b2b web services",
+    "Plant": "P004",
+    "ProfitCenter": "PC1002",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 69.88
+  },
+  {
+    "MaterialID": "M-10061",
+    "Description": "Streamline extensible solutions",
+    "Plant": "P002",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 269.81
+  },
+  {
+    "MaterialID": "M-10062",
+    "Description": "Mesh transparent deliverables",
+    "Plant": "P004",
+    "ProfitCenter": "PC1005",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 204.03
+  },
+  {
+    "MaterialID": "M-10063",
+    "Description": "Empower leading-edge roi",
+    "Plant": "P002",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 111.09
+  },
+  {
+    "MaterialID": "M-10064",
+    "Description": "Brand dot-com schemas",
+    "Plant": "P003",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 233.1
+  },
+  {
+    "MaterialID": "M-10065",
+    "Description": "Redefine integrated e-tailers",
+    "Plant": "P002",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 27.41
+  },
+  {
+    "MaterialID": "M-10066",
+    "Description": "Visualize leading-edge initiatives",
+    "Plant": "P001",
+    "ProfitCenter": "PC1009",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 261.68
+  },
+  {
+    "MaterialID": "M-10067",
+    "Description": "Enable user-centric initiatives",
+    "Plant": "P003",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 30.9
+  },
+  {
+    "MaterialID": "M-10068",
+    "Description": "Enable distributed web services",
+    "Plant": "P002",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 272.95
+  },
+  {
+    "MaterialID": "M-10069",
+    "Description": "Grow next-generation e-markets",
+    "Plant": "P003",
+    "ProfitCenter": "PC1007",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 97.45
+  },
+  {
+    "MaterialID": "M-10070",
+    "Description": "Productize cutting-edge roi",
+    "Plant": "P002",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 133.78
+  },
+  {
+    "MaterialID": "M-10071",
+    "Description": "Transform clicks-and-mortar vortals",
+    "Plant": "P004",
+    "ProfitCenter": "PC1007",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 31.76
+  },
+  {
+    "MaterialID": "M-10072",
+    "Description": "Transform bricks-and-clicks technologies",
+    "Plant": "P001",
+    "ProfitCenter": "PC1008",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 124.48
+  },
+  {
+    "MaterialID": "M-10073",
+    "Description": "Maximize mission-critical applications",
+    "Plant": "P001",
+    "ProfitCenter": "PC1018",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 48.66
+  },
+  {
+    "MaterialID": "M-10074",
+    "Description": "Empower e-business e-services",
+    "Plant": "P002",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 58.81
+  },
+  {
+    "MaterialID": "M-10075",
+    "Description": "Re-contextualize virtual mindshare",
+    "Plant": "P001",
+    "ProfitCenter": "PC1007",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 293.57
+  },
+  {
+    "MaterialID": "M-10076",
+    "Description": "Enable b2c initiatives",
+    "Plant": "P003",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 105.98
+  },
+  {
+    "MaterialID": "M-10077",
+    "Description": "Visualize transparent supply-chains",
+    "Plant": "P001",
+    "ProfitCenter": "PC1011",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 194.57
+  },
+  {
+    "MaterialID": "M-10078",
+    "Description": "Engage open-source e-tailers",
+    "Plant": "P002",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 233.95
+  },
+  {
+    "MaterialID": "M-10079",
+    "Description": "Harness open-source models",
+    "Plant": "P002",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 62.47
+  },
+  {
+    "MaterialID": "M-10080",
+    "Description": "Harness viral applications",
+    "Plant": "P004",
+    "ProfitCenter": "PC1010",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 196.96
+  },
+  {
+    "MaterialID": "M-10081",
+    "Description": "Streamline scalable methodologies",
+    "Plant": "P003",
+    "ProfitCenter": "PC1010",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 174.33
+  },
+  {
+    "MaterialID": "M-10082",
+    "Description": "Synthesize virtual infrastructures",
+    "Plant": "P002",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 171.75
+  },
+  {
+    "MaterialID": "M-10083",
+    "Description": "Iterate 24/7 supply-chains",
+    "Plant": "P004",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 276.67
+  },
+  {
+    "MaterialID": "M-10084",
+    "Description": "Target visionary e-markets",
+    "Plant": "P001",
+    "ProfitCenter": "PC1004",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 142.94
+  },
+  {
+    "MaterialID": "M-10085",
+    "Description": "Cultivate value-added web services",
+    "Plant": "P004",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 86.51
+  },
+  {
+    "MaterialID": "M-10086",
+    "Description": "Brand dot-com e-markets",
+    "Plant": "P004",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 129.93
+  },
+  {
+    "MaterialID": "M-10087",
+    "Description": "Syndicate rich networks",
+    "Plant": "P004",
+    "ProfitCenter": "PC1004",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 48.19
+  },
+  {
+    "MaterialID": "M-10088",
+    "Description": "Implement visionary e-commerce",
+    "Plant": "P004",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 168.82
+  },
+  {
+    "MaterialID": "M-10089",
+    "Description": "Facilitate strategic systems",
+    "Plant": "P002",
+    "ProfitCenter": "PC1002",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 118.8
+  },
+  {
+    "MaterialID": "M-10090",
+    "Description": "Harness plug-and-play solutions",
+    "Plant": "P002",
+    "ProfitCenter": "PC1000",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 224.67
+  },
+  {
+    "MaterialID": "M-10091",
+    "Description": "Maximize plug-and-play deliverables",
+    "Plant": "P002",
+    "ProfitCenter": "PC1008",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 145.57
+  },
+  {
+    "MaterialID": "M-10092",
+    "Description": "Monetize scalable users",
+    "Plant": "P001",
+    "ProfitCenter": "PC1017",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 278.34
+  },
+  {
+    "MaterialID": "M-10093",
+    "Description": "Orchestrate seamless initiatives",
+    "Plant": "P001",
+    "ProfitCenter": "PC1008",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 216.94
+  },
+  {
+    "MaterialID": "M-10094",
+    "Description": "Deploy real-time web-readiness",
+    "Plant": "P002",
+    "ProfitCenter": "PC1002",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 251.4
+  },
+  {
+    "MaterialID": "M-10095",
+    "Description": "Facilitate web-enabled web-readiness",
+    "Plant": "P002",
+    "ProfitCenter": "PC1005",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 296.98
+  },
+  {
+    "MaterialID": "M-10096",
+    "Description": "Reinvent strategic e-commerce",
+    "Plant": "P004",
+    "ProfitCenter": "PC1014",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 70.29
+  },
+  {
+    "MaterialID": "M-10097",
+    "Description": "Syndicate plug-and-play synergies",
+    "Plant": "P002",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 135.11
+  },
+  {
+    "MaterialID": "M-10098",
+    "Description": "Exploit innovative niches",
+    "Plant": "P001",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 93.89
+  },
+  {
+    "MaterialID": "M-10099",
+    "Description": "Strategize end-to-end bandwidth",
+    "Plant": "P004",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 243.29
+  },
+  {
+    "MaterialID": "M-10100",
+    "Description": "Mesh intuitive architectures",
+    "Plant": "P002",
+    "ProfitCenter": "PC1008",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 257.71
+  },
+  {
+    "MaterialID": "M-10101",
+    "Description": "Re-contextualize cutting-edge networks",
+    "Plant": "P002",
+    "ProfitCenter": "PC1000",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 266.32
+  },
+  {
+    "MaterialID": "M-10102",
+    "Description": "Whiteboard mission-critical channels",
+    "Plant": "P003",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 93.85
+  },
+  {
+    "MaterialID": "M-10103",
+    "Description": "Scale best-of-breed roi",
+    "Plant": "P003",
+    "ProfitCenter": "PC1007",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 32.79
+  },
+  {
+    "MaterialID": "M-10104",
+    "Description": "Repurpose intuitive systems",
+    "Plant": "P004",
+    "ProfitCenter": "PC1015",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 131.57
+  },
+  {
+    "MaterialID": "M-10105",
+    "Description": "Revolutionize holistic e-markets",
+    "Plant": "P003",
+    "ProfitCenter": "PC1014",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 175.0
+  },
+  {
+    "MaterialID": "M-10106",
+    "Description": "Whiteboard real-time niches",
+    "Plant": "P002",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 61.87
+  },
+  {
+    "MaterialID": "M-10107",
+    "Description": "Benchmark e-business paradigms",
+    "Plant": "P002",
+    "ProfitCenter": "PC1000",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 91.63
+  },
+  {
+    "MaterialID": "M-10108",
+    "Description": "Implement interactive niches",
+    "Plant": "P003",
+    "ProfitCenter": "PC1000",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 113.08
+  },
+  {
+    "MaterialID": "M-10109",
+    "Description": "Envisioneer frictionless action-items",
+    "Plant": "P003",
+    "ProfitCenter": "PC1010",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 170.65
+  },
+  {
+    "MaterialID": "M-10110",
+    "Description": "Exploit cross-platform web-readiness",
+    "Plant": "P001",
+    "ProfitCenter": "PC1018",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 190.83
+  },
+  {
+    "MaterialID": "M-10111",
+    "Description": "Enable plug-and-play content",
+    "Plant": "P001",
+    "ProfitCenter": "PC1002",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 184.07
+  },
+  {
+    "MaterialID": "M-10112",
+    "Description": "Visualize web-enabled systems",
+    "Plant": "P002",
+    "ProfitCenter": "PC1014",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 149.52
+  },
+  {
+    "MaterialID": "M-10113",
+    "Description": "Syndicate distributed e-services",
+    "Plant": "P004",
+    "ProfitCenter": "PC1015",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 232.02
+  },
+  {
+    "MaterialID": "M-10114",
+    "Description": "Visualize granular infrastructures",
+    "Plant": "P002",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 240.09
+  },
+  {
+    "MaterialID": "M-10115",
+    "Description": "Transition 24/365 relationships",
+    "Plant": "P001",
+    "ProfitCenter": "PC1018",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 160.13
+  },
+  {
+    "MaterialID": "M-10116",
+    "Description": "Innovate mission-critical vortals",
+    "Plant": "P003",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 249.52
+  },
+  {
+    "MaterialID": "M-10117",
+    "Description": "Engage integrated architectures",
+    "Plant": "P001",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 131.67
+  },
+  {
+    "MaterialID": "M-10118",
+    "Description": "Mesh frictionless niches",
+    "Plant": "P003",
+    "ProfitCenter": "PC1005",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 162.84
+  },
+  {
+    "MaterialID": "M-10119",
+    "Description": "Matrix 24/7 info-mediaries",
+    "Plant": "P003",
+    "ProfitCenter": "PC1000",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 123.4
+  },
+  {
+    "MaterialID": "M-10120",
+    "Description": "Deploy impactful metrics",
+    "Plant": "P003",
+    "ProfitCenter": "PC1018",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 151.33
+  },
+  {
+    "MaterialID": "M-10121",
+    "Description": "Empower real-time functionalities",
+    "Plant": "P001",
+    "ProfitCenter": "PC1007",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 145.0
+  },
+  {
+    "MaterialID": "M-10122",
+    "Description": "Aggregate plug-and-play deliverables",
+    "Plant": "P003",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 233.23
+  },
+  {
+    "MaterialID": "M-10123",
+    "Description": "Exploit b2b e-business",
+    "Plant": "P003",
+    "ProfitCenter": "PC1010",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 54.17
+  },
+  {
+    "MaterialID": "M-10124",
+    "Description": "Brand world-class schemas",
+    "Plant": "P003",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 194.27
+  },
+  {
+    "MaterialID": "M-10125",
+    "Description": "Morph bleeding-edge markets",
+    "Plant": "P002",
+    "ProfitCenter": "PC1005",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 124.9
+  },
+  {
+    "MaterialID": "M-10126",
+    "Description": "E-enable enterprise systems",
+    "Plant": "P003",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 283.26
+  },
+  {
+    "MaterialID": "M-10127",
+    "Description": "Empower synergistic vortals",
+    "Plant": "P003",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 81.38
+  },
+  {
+    "MaterialID": "M-10128",
+    "Description": "Revolutionize scalable methodologies",
+    "Plant": "P001",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 207.77
+  },
+  {
+    "MaterialID": "M-10129",
+    "Description": "Grow end-to-end methodologies",
+    "Plant": "P001",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 39.45
+  },
+  {
+    "MaterialID": "M-10130",
+    "Description": "Synergize revolutionary networks",
+    "Plant": "P003",
+    "ProfitCenter": "PC1005",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 26.0
+  },
+  {
+    "MaterialID": "M-10131",
+    "Description": "Benchmark real-time eyeballs",
+    "Plant": "P004",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 35.99
+  },
+  {
+    "MaterialID": "M-10132",
+    "Description": "Exploit one-to-one e-business",
+    "Plant": "P004",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 254.26
+  },
+  {
+    "MaterialID": "M-10133",
+    "Description": "Evolve sticky niches",
+    "Plant": "P001",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 135.46
+  },
+  {
+    "MaterialID": "M-10134",
+    "Description": "Incentivize web-enabled deliverables",
+    "Plant": "P002",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 44.44
+  },
+  {
+    "MaterialID": "M-10135",
+    "Description": "Facilitate b2b e-business",
+    "Plant": "P004",
+    "ProfitCenter": "PC1018",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 127.45
+  },
+  {
+    "MaterialID": "M-10136",
+    "Description": "Extend dynamic roi",
+    "Plant": "P004",
+    "ProfitCenter": "PC1017",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 100.33
+  },
+  {
+    "MaterialID": "M-10137",
+    "Description": "Engage killer deliverables",
+    "Plant": "P002",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 268.81
+  },
+  {
+    "MaterialID": "M-10138",
+    "Description": "Architect enterprise functionalities",
+    "Plant": "P003",
+    "ProfitCenter": "PC1004",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 101.44
+  },
+  {
+    "MaterialID": "M-10139",
+    "Description": "Embrace out-of-the-box e-business",
+    "Plant": "P003",
+    "ProfitCenter": "PC1018",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 87.39
+  },
+  {
+    "MaterialID": "M-10140",
+    "Description": "Exploit value-added methodologies",
+    "Plant": "P002",
+    "ProfitCenter": "PC1004",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 87.82
+  },
+  {
+    "MaterialID": "M-10141",
+    "Description": "Expedite synergistic models",
+    "Plant": "P003",
+    "ProfitCenter": "PC1007",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 73.99
+  },
+  {
+    "MaterialID": "M-10142",
+    "Description": "Facilitate cross-media architectures",
+    "Plant": "P004",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 211.81
+  },
+  {
+    "MaterialID": "M-10143",
+    "Description": "Scale 24/7 paradigms",
+    "Plant": "P004",
+    "ProfitCenter": "PC1018",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 184.23
+  },
+  {
+    "MaterialID": "M-10144",
+    "Description": "Engage clicks-and-mortar eyeballs",
+    "Plant": "P001",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 129.36
+  },
+  {
+    "MaterialID": "M-10145",
+    "Description": "Aggregate clicks-and-mortar experiences",
+    "Plant": "P001",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 100.64
+  },
+  {
+    "MaterialID": "M-10146",
+    "Description": "Extend bleeding-edge interfaces",
+    "Plant": "P002",
+    "ProfitCenter": "PC1009",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 273.16
+  },
+  {
+    "MaterialID": "M-10147",
+    "Description": "Engage bricks-and-clicks e-services",
+    "Plant": "P002",
+    "ProfitCenter": "PC1015",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 150.47
+  },
+  {
+    "MaterialID": "M-10148",
+    "Description": "Deploy killer info-mediaries",
+    "Plant": "P002",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 115.84
+  },
+  {
+    "MaterialID": "M-10149",
+    "Description": "Whiteboard out-of-the-box e-commerce",
+    "Plant": "P001",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 58.65
+  },
+  {
+    "MaterialID": "M-10150",
+    "Description": "Transform transparent e-tailers",
+    "Plant": "P003",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 153.95
+  },
+  {
+    "MaterialID": "M-10151",
+    "Description": "Strategize synergistic deliverables",
+    "Plant": "P001",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 156.56
+  },
+  {
+    "MaterialID": "M-10152",
+    "Description": "Engage dynamic content",
+    "Plant": "P003",
+    "ProfitCenter": "PC1018",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 257.77
+  },
+  {
+    "MaterialID": "M-10153",
+    "Description": "Incubate one-to-one solutions",
+    "Plant": "P001",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 109.27
+  },
+  {
+    "MaterialID": "M-10154",
+    "Description": "Orchestrate ubiquitous portals",
+    "Plant": "P004",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 167.43
+  },
+  {
+    "MaterialID": "M-10155",
+    "Description": "E-enable efficient channels",
+    "Plant": "P001",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 207.06
+  },
+  {
+    "MaterialID": "M-10156",
+    "Description": "Deploy next-generation portals",
+    "Plant": "P004",
+    "ProfitCenter": "PC1013",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 189.2
+  },
+  {
+    "MaterialID": "M-10157",
+    "Description": "Extend cross-media e-commerce",
+    "Plant": "P002",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 36.04
+  },
+  {
+    "MaterialID": "M-10158",
+    "Description": "Morph distributed initiatives",
+    "Plant": "P002",
+    "ProfitCenter": "PC1010",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 99.92
+  },
+  {
+    "MaterialID": "M-10159",
+    "Description": "Morph extensible paradigms",
+    "Plant": "P001",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 226.39
+  },
+  {
+    "MaterialID": "M-10160",
+    "Description": "Empower mission-critical deliverables",
+    "Plant": "P004",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 199.0
+  },
+  {
+    "MaterialID": "M-10161",
+    "Description": "Benchmark enterprise schemas",
+    "Plant": "P004",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 238.33
+  },
+  {
+    "MaterialID": "M-10162",
+    "Description": "Architect viral mindshare",
+    "Plant": "P004",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 130.22
+  },
+  {
+    "MaterialID": "M-10163",
+    "Description": "Maximize seamless systems",
+    "Plant": "P002",
+    "ProfitCenter": "PC1019",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 161.66
+  },
+  {
+    "MaterialID": "M-10164",
+    "Description": "Drive bleeding-edge models",
+    "Plant": "P002",
+    "ProfitCenter": "PC1011",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 46.49
+  },
+  {
+    "MaterialID": "M-10165",
+    "Description": "Integrate out-of-the-box info-mediaries",
+    "Plant": "P001",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 123.46
+  },
+  {
+    "MaterialID": "M-10166",
+    "Description": "Streamline best-of-breed supply-chains",
+    "Plant": "P004",
+    "ProfitCenter": "PC1014",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 118.35
+  },
+  {
+    "MaterialID": "M-10167",
+    "Description": "Facilitate killer experiences",
+    "Plant": "P003",
+    "ProfitCenter": "PC1011",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 65.04
+  },
+  {
+    "MaterialID": "M-10168",
+    "Description": "Productize global web services",
+    "Plant": "P003",
+    "ProfitCenter": "PC1008",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 186.25
+  },
+  {
+    "MaterialID": "M-10169",
+    "Description": "Revolutionize real-time relationships",
+    "Plant": "P002",
+    "ProfitCenter": "PC1010",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 90.36
+  },
+  {
+    "MaterialID": "M-10170",
+    "Description": "Mesh compelling paradigms",
+    "Plant": "P001",
+    "ProfitCenter": "PC1011",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 291.31
+  },
+  {
+    "MaterialID": "M-10171",
+    "Description": "Whiteboard revolutionary relationships",
+    "Plant": "P001",
+    "ProfitCenter": "PC1008",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 83.61
+  },
+  {
+    "MaterialID": "M-10172",
+    "Description": "Benchmark clicks-and-mortar partnerships",
+    "Plant": "P001",
+    "ProfitCenter": "PC1014",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 187.98
+  },
+  {
+    "MaterialID": "M-10173",
+    "Description": "Unleash mission-critical deliverables",
+    "Plant": "P001",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 202.3
+  },
+  {
+    "MaterialID": "M-10174",
+    "Description": "Productize frictionless users",
+    "Plant": "P004",
+    "ProfitCenter": "PC1005",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 58.13
+  },
+  {
+    "MaterialID": "M-10175",
+    "Description": "Generate customized e-tailers",
+    "Plant": "P001",
+    "ProfitCenter": "PC1004",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 32.71
+  },
+  {
+    "MaterialID": "M-10176",
+    "Description": "Benchmark 24/365 paradigms",
+    "Plant": "P002",
+    "ProfitCenter": "PC1010",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 299.4
+  },
+  {
+    "MaterialID": "M-10177",
+    "Description": "Innovate transparent bandwidth",
+    "Plant": "P003",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 298.1
+  },
+  {
+    "MaterialID": "M-10178",
+    "Description": "Embrace rich relationships",
+    "Plant": "P001",
+    "ProfitCenter": "PC1006",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 155.0
+  },
+  {
+    "MaterialID": "M-10179",
+    "Description": "Expedite synergistic e-business",
+    "Plant": "P004",
+    "ProfitCenter": "PC1014",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 266.28
+  },
+  {
+    "MaterialID": "M-10180",
+    "Description": "Cultivate distributed synergies",
+    "Plant": "P004",
+    "ProfitCenter": "PC1005",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 157.01
+  },
+  {
+    "MaterialID": "M-10181",
+    "Description": "Utilize leading-edge supply-chains",
+    "Plant": "P001",
+    "ProfitCenter": "PC1014",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 63.06
+  },
+  {
+    "MaterialID": "M-10182",
+    "Description": "Repurpose frictionless niches",
+    "Plant": "P001",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 219.32
+  },
+  {
+    "MaterialID": "M-10183",
+    "Description": "Seize proactive e-tailers",
+    "Plant": "P002",
+    "ProfitCenter": "PC1015",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 91.03
+  },
+  {
+    "MaterialID": "M-10184",
+    "Description": "Scale killer initiatives",
+    "Plant": "P003",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 119.01
+  },
+  {
+    "MaterialID": "M-10185",
+    "Description": "Leverage innovative deliverables",
+    "Plant": "P001",
+    "ProfitCenter": "PC1003",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG02",
+    "Taxable": false,
+    "Price": 192.56
+  },
+  {
+    "MaterialID": "M-10186",
+    "Description": "Re-contextualize interactive deliverables",
+    "Plant": "P001",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 187.13
+  },
+  {
+    "MaterialID": "M-10187",
+    "Description": "Brand front-end channels",
+    "Plant": "P001",
+    "ProfitCenter": "PC1010",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG03",
+    "Taxable": true,
+    "Price": 297.12
+  },
+  {
+    "MaterialID": "M-10188",
+    "Description": "Brand extensible convergence",
+    "Plant": "P002",
+    "ProfitCenter": "PC1002",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG04",
+    "Taxable": false,
+    "Price": 190.15
+  },
+  {
+    "MaterialID": "M-10189",
+    "Description": "Re-contextualize dynamic schemas",
+    "Plant": "P002",
+    "ProfitCenter": "PC1001",
+    "ValuationClass": 7920,
+    "MaterialGroup": "MG05",
+    "Taxable": false,
+    "Price": 92.52
+  },
+  {
+    "MaterialID": "M-10190",
+    "Description": "Iterate innovative e-business",
+    "Plant": "P003",
+    "ProfitCenter": "PC1005",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 179.31
+  },
+  {
+    "MaterialID": "M-10191",
+    "Description": "Orchestrate dot-com e-services",
+    "Plant": "P004",
+    "ProfitCenter": "PC1017",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 220.69
+  },
+  {
+    "MaterialID": "M-10192",
+    "Description": "Benchmark extensible applications",
+    "Plant": "P002",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7940,
+    "MaterialGroup": "MG03",
+    "Taxable": false,
+    "Price": 163.68
+  },
+  {
+    "MaterialID": "M-10193",
+    "Description": "Revolutionize customized e-business",
+    "Plant": "P004",
+    "ProfitCenter": "PC1010",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG01",
+    "Taxable": false,
+    "Price": 120.58
+  },
+  {
+    "MaterialID": "M-10194",
+    "Description": "Productize interactive content",
+    "Plant": "P004",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 218.05
+  },
+  {
+    "MaterialID": "M-10195",
+    "Description": "Facilitate back-end applications",
+    "Plant": "P002",
+    "ProfitCenter": "PC1009",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 217.27
+  },
+  {
+    "MaterialID": "M-10196",
+    "Description": "Utilize virtual bandwidth",
+    "Plant": "P002",
+    "ProfitCenter": "PC1012",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG01",
+    "Taxable": true,
+    "Price": 203.58
+  },
+  {
+    "MaterialID": "M-10197",
+    "Description": "Evolve revolutionary applications",
+    "Plant": "P001",
+    "ProfitCenter": "PC1016",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG04",
+    "Taxable": true,
+    "Price": 160.0
+  },
+  {
+    "MaterialID": "M-10198",
+    "Description": "Incubate enterprise methodologies",
+    "Plant": "P004",
+    "ProfitCenter": "PC1011",
+    "ValuationClass": 7980,
+    "MaterialGroup": "MG05",
+    "Taxable": true,
+    "Price": 60.27
+  },
+  {
+    "MaterialID": "M-10199",
+    "Description": "Unleash seamless markets",
+    "Plant": "P002",
+    "ProfitCenter": "PC1017",
+    "ValuationClass": 7960,
+    "MaterialGroup": "MG02",
+    "Taxable": true,
+    "Price": 30.57
+  }
+]

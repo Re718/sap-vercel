@@ -1,0 +1,302 @@
+[
+  {
+    "GLAccount": 300001,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300002,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300003,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300004,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300005,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300006,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300007,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300008,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300009,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300010,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300011,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300012,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300013,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300014,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300015,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300016,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300017,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300018,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300019,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300020,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300021,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300022,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300023,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300024,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 300025,
+    "Type": "Inventory",
+    "Category": "Balance Sheet"
+  },
+  {
+    "GLAccount": 400010,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400011,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400012,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400013,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400014,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400015,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400016,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400017,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400018,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400019,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400020,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400021,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400022,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400023,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400024,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400025,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400026,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400027,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400028,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 400029,
+    "Type": "Revenue",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500001,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500002,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500003,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500004,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500005,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500006,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500007,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500008,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500009,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500010,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500011,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500012,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500013,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500014,
+    "Type": "COGS",
+    "Category": "P&L"
+  },
+  {
+    "GLAccount": 500015,
+    "Type": "COGS",
+    "Category": "P&L"
+  }
+]
