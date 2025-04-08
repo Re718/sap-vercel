@@ -1,7 +1,8 @@
+
 import React, { useState, useEffect } from "react";
 import { Sankey, ResponsiveContainer } from "recharts";
-import materialData from "../data/material_master_data.json";
-import glData from "../data/gl_master_data.json";
+import materialData from "./data/material_master_data.json";
+import glData from "./data/gl_master_data.json";
 
 const blockedGLs = ["400010"];
 const closedPeriods = ["2025-04"];
@@ -147,12 +148,12 @@ export default function App() {
                 data={{ nodes: sankeyData.nodes, links: sankeyData.links }}
                 nodePadding={30}
                 margin={{ top: 0, bottom: 0 }}
-                link={{ stroke: "#888" }}
+                link={{ stroke: "#888", strokeOpacity: 0.4 }}
                 node={{
-  stroke: "#000",
-  strokeWidth: 1,
-  fill: (node) => node.color || "#ccc"
-}}
+                  stroke: "#000",
+                  strokeWidth: 1,
+                  fill: (node) => node.color || "#ccc"
+                }}
               />
             </ResponsiveContainer>
             <div className="mt-2 text-sm text-gray-600">
