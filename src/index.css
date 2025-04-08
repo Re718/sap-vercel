@@ -2,3 +2,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.recharts-sankey-node rect[fill="green"] {
+  fill: #34d399 !important;
+}
+.recharts-sankey-node rect[fill="red"] {
+  fill: #f87171 !important;
+}
+.recharts-sankey-node rect[fill="#8884d8"] {
+  fill: #3b82f6 !important;
+}
+.recharts-sankey-node rect[fill="#82ca9d"] {
+  fill: #14b8a6 !important;
+}
