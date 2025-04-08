@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Sankey, ResponsiveContainer } from "recharts";
-import materialData from "../data/material_master_data.json";
-import glData from "../data/gl_master_data.json";
+import materialData from "./data/material_master_data.json";
+import glData from "./data/gl_master_data.json";
 
 const blockedGLs = ["400010"];
 const closedPeriods = ["2025-04"];
