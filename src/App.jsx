@@ -147,8 +147,15 @@ export default function App() {
                 data={{ nodes: sankeyData.nodes, links: sankeyData.links }}
                 nodePadding={30}
                 margin={{ top: 0, bottom: 0 }}
-                link={{ stroke: "#888" }}
-                node={{ stroke: "#000", strokeWidth: 1 }}
+                link={{
+  stroke: "#bbb",
+  strokeOpacity: 0.4,
+}}
+                node={{
+  stroke: "#000",
+  strokeWidth: 1,
+  fill: (node) => node.color || "#ccc"
+}}
               />
             </ResponsiveContainer>
             <div className="mt-2 text-sm text-gray-600">
